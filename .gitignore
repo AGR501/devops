@@ -15,3 +15,6 @@ env/
 # Others
 *.log
 
+venv/
+*.pyc
+__pycache__/
