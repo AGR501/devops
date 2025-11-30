@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+*.env
+
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+
+# Others
+*.log
+
